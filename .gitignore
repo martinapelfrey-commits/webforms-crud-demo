@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+*.nupkg
+
+# Local database files (keep database scripts in source control)
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Logs and temporary files
+*.log
+[Tt]emp/
